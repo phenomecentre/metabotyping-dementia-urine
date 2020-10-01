@@ -24,15 +24,14 @@ hydrophilic interaction liquid chromatography (HILIC) with positive ionisation (
 ### Index
 This repository has the following structure:
 
-**\Datasets** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;**\peakPantheR** Final LC-MS datasets, ready for statistical analysis<br>
-**\peakPantheR** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;**\LC-MS Annotations** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**\peakPantheR Urine RPOS/RNEG/HPOS** peakPantheR processing outputs <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**\ROI files** Lists of compound annotations for the RPOS/RNEG/HPOS assays <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**\R scripts** Example R scripts with examples of the peakPantheR workflow. 
-        **Note** Running these scripts requires the mzML files, which can be downloaded from [MTBLS719](https://www.ebi.ac.uk/metabolights/MTBLS719) <br>
-**\nPYc-Toolbox scripts** Jupyter Notebooks with the nPYc-Toolbox commands and parameters used to generate the files in the "Datasets" folder from the peakPantheR outputs.
+* **\Datasets**
+    * **\peakPantheR** Final LC-MS datasets, ready for statistical analysis
+* **\peakPantheR** 
+    * **\LC-MS Annotations**
+        * **\peakPantheR Urine RPOS/RNEG/HPOS** peakPantheR processing outputs
+        * **\ROI files** Lists of compound annotations for the RPOS/RNEG/HPOS assays
+        * **\R scripts** R scripts with examples of the peakPantheR workflow. **Note** Running these scripts requires the mzML files, which can be downloaded from [MTBLS719](https://www.ebi.ac.uk/metabolights/MTBLS719) <br>
+* **\nPYc-Toolbox scripts** Jupyter Notebooks with the nPYc-Toolbox commands and parameters used to generate the files in the "Datasets" folder from the peakPantheR outputs.
 
 Each of the directories contains a readme file with information about the accompanying files.
 

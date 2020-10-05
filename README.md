@@ -20,7 +20,6 @@ the three LC-MS profiling assays described in Lewis *et al*<sup>1</sup>: reverse
 ionisation (RPOS), reversed-phase chromatography with negative ionisation (RNEG), and 
 hydrophilic interaction liquid chromatography (HILIC) with positive ionisation (HPOS).
 
-**Note**: Please cite [this dataset's Zenodo entry]()) if you use any of the contents of this repository.
 ### Index
 This repository has the following structure:
 

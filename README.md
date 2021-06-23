@@ -15,7 +15,7 @@ MetaboLights entry - [MTBLS719](https://www.ebi.ac.uk/metabolights/MTBLS719).
 ## Contents:
 This repository contains supporting materials and worked tutorials/examples for the R package 
 [peakPantheR](https://bioconductor.org/packages/peakPantheR/) and the Python package
-[nPYc-Toolbox](https://github.com/phenomecentre/nPYc-Toolbox) <sup>5</sup>. The functionality of these tools is exemplified using 
+[nPYc-Toolbox](https://github.com/phenomecentre/nPYc-Toolbox)<sup>5</sup>. The functionality of these tools is exemplified using 
 the three LC-MS profiling assays described in Lewis *et al*<sup>1</sup>: reversed-phase chromatography with positive 
 ionisation (RPOS), reversed-phase chromatography with negative ionisation (RNEG), and 
 hydrophilic interaction liquid chromatography (HILIC) with positive ionisation (HPOS).

@@ -14,8 +14,8 @@ MetaboLights entry - [MTBLS719](https://www.ebi.ac.uk/metabolights/MTBLS719).
 
 ## Contents:
 This repository contains supporting materials and worked tutorials/examples for the R package 
-[peakPantheR](https://bioconductor.org/packages/peakPantheR/) and the Python package
-[nPYc-Toolbox](https://github.com/phenomecentre/nPYc-Toolbox)<sup>5</sup>. The functionality of these tools is exemplified using 
+[peakPantheR](https://bioconductor.org/packages/peakPantheR/)<sup>5</sup> and the Python package
+[nPYc-Toolbox](https://github.com/phenomecentre/nPYc-Toolbox)<sup>6</sup>. The functionality of these tools is exemplified using 
 the three LC-MS profiling assays described in Lewis *et al*<sup>1</sup>: reversed-phase chromatography with positive 
 ionisation (RPOS), reversed-phase chromatography with negative ionisation (RNEG), and 
 hydrophilic interaction liquid chromatography (HILIC) with positive ionisation (HPOS).
@@ -44,4 +44,6 @@ Each of the directories contains a readme file with information about the accomp
 
 <sup>4</sup> Birkenbihl, C., Westwood, S., Shi, L., Nevado-Holgado, A., Westman, E., Lovestone, S., & Hofmann Apitius, M. (2020). ANMerge: A comprehensive and accessible Alzheimer’s disease patient-level dataset. MedRxiv. https://doi.org/10.1101/2020.08.04.20168229
 
-<sup>5</sup> Caroline J Sands, Arnaud M Wolfer, Gonçalo D S Correia, Noureddin Sadawi, Arfan Ahmed, Beatriz Jiménez, Matthew R Lewis, Robert C Glen, Jeremy K Nicholson, Jake T M Pearce, The nPYc-Toolbox, a Python module for the pre-processing, quality-control and analysis of metabolic profiling datasets, Bioinformatics, Volume 35, Issue 24, 15 December 2019, Pages 5359–5360, https://doi.org/10.1093/bioinformatics/btz566
+<sup>5</sup> Arnaud M Wolfer, Gonçalo D S Correia, Caroline J Sands, Stephane Camuzeaux, Ada H Y Yuen, Elena Chekmeneva, Zoltán Takáts, Jake T M Pearce, Matthew R Lewis, peakPantheR, an R package for large-scale targeted extraction and integration of annotated metabolic features in LC-MS profiling datasets, Bioinformatics, 2021;, btab433, https://doi.org/10.1093/bioinformatics/btab433
+
+<sup>6</sup> Caroline J Sands, Arnaud M Wolfer, Gonçalo D S Correia, Noureddin Sadawi, Arfan Ahmed, Beatriz Jiménez, Matthew R Lewis, Robert C Glen, Jeremy K Nicholson, Jake T M Pearce, The nPYc-Toolbox, a Python module for the pre-processing, quality-control and analysis of metabolic profiling datasets, Bioinformatics, Volume 35, Issue 24, 15 December 2019, Pages 5359–5360, https://doi.org/10.1093/bioinformatics/btz566

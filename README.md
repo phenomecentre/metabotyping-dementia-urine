@@ -38,11 +38,11 @@ Each of the directories contains a readme file with information about the accomp
 
 <sup>1</sup> Lewis, M. R., Pearce, J. T. M., Spagou, K., Green, M., Dona, A. C., Yuen, A. H. Y., … Nicholson, J. K. (2016). Development and Application of Ultra-Performance Liquid Chromatography-TOF MS for Precision Large Scale Urinary Metabolic Phenotyping. Analytical Chemistry, 88(18), 9004–9013. https://doi.org/10.1021/acs.analchem.6b01481
 
-<sup>2</sup> Dona AC, Jiménez B, Schäfer H, et al. Precision high-throughput proton NMR spectroscopy of human urine, serum, and plasma for large-scale metabolic phenotyping. Analytical Chemistry. 2014; 86(19):9887-94
+<sup>2</sup> Dona AC, Jiménez B, Schäfer H, et al. Precision high-throughput proton NMR spectroscopy of human urine, serum, and plasma for large-scale metabolic phenotyping. Analytical Chemistry. 2014; 86(19):9887-94. https://doi.org/10.1021/ac5025039
 
 <sup>3</sup> Lovestone, S., Francis, P., Kloszewska, I., Mecocci, P., Simmons, A., Soininen, H., … Ward, M. (2009). AddNeuroMed - The european collaboration for the discovery of novel biomarkers for alzheimer’s disease. In Annals of the New York Academy of Sciences. https://doi.org/10.1111/j.1749-6632.2009.05064.x
 
-<sup>4</sup> Birkenbihl, C., Westwood, S., Shi, L., Nevado-Holgado, A., Westman, E., Lovestone, S., & Hofmann Apitius, M. (2020). ANMerge: A comprehensive and accessible Alzheimer’s disease patient-level dataset. MedRxiv. https://doi.org/10.1101/2020.08.04.20168229
+<sup>4</sup> Birkenbihl C, Westwood S, Shi L, Nevado-Holgado A, Westman E, Lovestone S; AddNeuroMed Consortium, Hofmann-Apitius M. ANMerge: A Comprehensive and Accessible Alzheimer's Disease Patient-Level Dataset. J Alzheimers Dis. 2021;79(1):423-431. https://doi.org/10.3233/JAD-200948. 
 
 <sup>5</sup> Arnaud M Wolfer, Gonçalo D S Correia, Caroline J Sands, Stephane Camuzeaux, Ada H Y Yuen, Elena Chekmeneva, Zoltán Takáts, Jake T M Pearce, Matthew R Lewis, peakPantheR, an R package for large-scale targeted extraction and integration of annotated metabolic features in LC-MS profiling datasets, Bioinformatics, 2021;, btab433, https://doi.org/10.1093/bioinformatics/btab433
 
